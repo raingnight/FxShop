@@ -1,0 +1,19 @@
+.goods_box{
+	width:200px;
+	height:auto;
+	margin:10px;
+
+}
+.goods_pic{
+	width: 200px;
+	height:200px;
+}
+#goods_list{
+	
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+a{
+	text-decoration:none;
+}
